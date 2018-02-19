@@ -8,7 +8,8 @@ namespace myApp
     {
         static void Main()
         {
-            Console.WriteLine("Kailash kat");
+            var name = "Kailash kat";
+            Console.WriteLine("Hello " + name + "!");
         }
     }
 }
